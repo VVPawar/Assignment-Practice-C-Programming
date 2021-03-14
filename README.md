@@ -1,1 +1,1 @@
-# Practice-C-Programming
+# Practice C Programming
